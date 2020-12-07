@@ -1,0 +1,13 @@
+{
+  "name": "rxjs-in-jsx",
+  "version": "0.0.0",
+  "scripts": {
+    "start": "sucrase-node ./rxjsx.jsx"
+  },
+  "dependencies": {
+    "rxjs": "^6.6.3"
+  },
+  "devDependencies": {
+    "sucrase": "^3.15.0"
+  }
+}

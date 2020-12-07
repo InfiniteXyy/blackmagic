@@ -1,0 +1,1 @@
+Some blackmagic in frontend dev just for fun

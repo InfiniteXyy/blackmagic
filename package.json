@@ -1,0 +1,9 @@
+{
+  "name": "black-magic",
+  "private": "true",
+  "author": {
+    "name": "Yiyang Xu",
+    "email": "xuyiyangwing@gmail.com"
+  },
+  "workspaces": ["./apps/*"]
+}
